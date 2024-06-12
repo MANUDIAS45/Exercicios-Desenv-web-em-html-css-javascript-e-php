@@ -11,7 +11,7 @@ const items = [
     {nome: "elefante", imagem: "imagens/elefante-png.png"},
     {nome: "gato", imagem: "imagens/gato-png.png"},
     {nome: "hipopotamo", imagem: "imagens/hipopotamo-png.png"},
-    {nome: "leao", imagem: "imagens/leao-png.png"},
+    {nome: "leao", imagem: "imagens/leao-pnj.png"},
     {nome: "tigre", imagem: "imagens/tigre-png.png"},
     {nome: "urso", imagem: "imagens/urso-png.png"}
     
