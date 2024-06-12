@@ -10,8 +10,8 @@ function Palindromo(palavra) {
         return palavra === palavraReversa;
     } 
     
-    // Exemplo de uso
-    var palavra = "Radar";
+    // Exemplo 
+    var palavra ="Raiar";
     if (Palindromo(palavra)) {
         console.log(palavra + " é um palíndromo.");
     } else {
