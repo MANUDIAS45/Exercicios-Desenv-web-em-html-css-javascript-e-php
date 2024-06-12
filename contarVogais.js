@@ -1,11 +1,11 @@
 function contarVogais(frase) {
-    // Define as vogais
+ // Define as vogais
     const vogais = 'aeiouAEIOU';
     let contagem = 0;
 
-    // Percorre cada caractere da frase
+ // Percorre cada caracter da frase
     for (let char of frase) {
-        // Se o caractere for uma vogal, incrementa o contador
+ // Se o caracter for uma vogal, incrementa o contador
         if (vogais.includes(char)) {
             contagem++;
         }
@@ -14,7 +14,7 @@ function contarVogais(frase) {
     return contagem;
 }
 
-// Exemplo de uso
-let frase = "Eu sou uma tonta6.";
+// Exemplo 
+let frase = "Eu sou uma tonta.";
 let contagemVogais = contarVogais(frase);
 console.log("Número de vogais na frase: " + contagemVogais);
