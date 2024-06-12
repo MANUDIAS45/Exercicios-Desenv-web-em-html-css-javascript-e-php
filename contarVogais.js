@@ -15,6 +15,6 @@ function contarVogais(frase) {
 }
 
 // Exemplo 
-let frase = "Eu sou uma tonta.";
+let frase = "Eu sou uma tonta!";
 let contagemVogais = contarVogais(frase);
 console.log("Número de vogais na frase: " + contagemVogais);
